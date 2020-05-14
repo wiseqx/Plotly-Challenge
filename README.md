@@ -1,2 +1,2 @@
 # Plotly-Challenge
-View a [Live Demo](https://wiseqx.github.io/Plotly-Challenge/) of Plotly Deploy
+Click [here](https://wiseqx.github.io/Plotly-Challenge/) to view a live demo of Plotly Deploy
